@@ -1,0 +1,25 @@
+#signInCard {
+  margin:auto;
+  max-width:600px;
+  background-color: #f4f4f4;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+  -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+  -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+}
+
+#signInForm {
+  max-width:350px;
+  margin:auto;
+}
+
+#imgSignIn {
+  height: 16rem;
+  margin: auto;
+  display: block;
+}
+
+#signInBtn {
+  color: #ffffff;
+  background-color: #d64829;
+  width: 100%;
+}
